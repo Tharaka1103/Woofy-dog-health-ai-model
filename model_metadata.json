@@ -1,0 +1,24 @@
+{
+    "model_type": "RandomForestClassifier",
+    "train_date": "2025-11-07",
+    "accuracy": 0.814,
+    "features_used": [
+        "Daily Activity Level",
+        "Daily Walk Distance (miles)",
+        "Age",
+        "Weight (lbs)",
+        "Breed",
+        "Sex",
+        "Diet",
+        "Medications",
+        "Seizures",
+        "Hours of Sleep",
+        "Annual Vet Visits",
+        "Average Temperature (F)"
+    ],
+    "classes": [
+        "No",
+        "Yes",
+        "nan"
+    ]
+}
